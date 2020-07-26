@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 <!DOCTYPE html>
-<html>
+<script async src="./javascript/index.js"></script><html>
   <head>
     <title>My webpage!</title>
   </head>
